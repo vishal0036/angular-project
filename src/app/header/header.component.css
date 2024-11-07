@@ -1,0 +1,33 @@
+.tfc_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f8f9fa;
+  }
+
+  .logo img {
+    height: 40px;
+  }
+  
+  .nav-menu ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-menu li {
+    display: inline;
+  }
+  
+  .nav-menu a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .profile-icon img {
+    height: 40px;
+    border-radius: 50%;
+  }
+  

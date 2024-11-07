@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+
+p{
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none; 
+    color: #011642; 
+    transition: color 0.3s;
+}
+.tfc_container{
+    max-width: 1400px;
+    margin: auto;
+}

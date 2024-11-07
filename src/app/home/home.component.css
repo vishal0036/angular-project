@@ -1,0 +1,18 @@
+
+.Ananeoo_main {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+
+}
+section.hero {
+    background-color: #011642;
+}
+.anaeoo_inner{
+color: #fff;
+}
+.anaeoo_inner h2 {
+    text-align: left;
+    font-size: 37px;
+    color: #ffc900;
+}
